@@ -1,0 +1,4 @@
+﻿  RayLibTest.cpp
+C:\Users\uku-laur.jagomagi\source\repos\CPP05\CPLUSPLUS\RayLibTest.cpp(42,34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\uku-laur.jagomagi\source\repos\CPP05\CPLUSPLUS\RayLibTest.cpp(43,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  CPLUSPLUS.vcxproj -> C:\Users\uku-laur.jagomagi\source\repos\CPP05\x64\Debug\CPLUSPLUS.exe
